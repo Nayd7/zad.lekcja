@@ -1,1 +1,1 @@
-# zad.lekcja
+# zad na lekcje
